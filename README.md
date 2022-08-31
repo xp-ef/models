@@ -1,2 +1,2 @@
-# This repository has been renewened in [GitHub Pages](https://github.com/xp-echo)
-# See details in the [GitHub Pages](https://github.com/xp-echo)
+## It seems to incorecctly be linked to this site "https://github.com/xp-echo".
+## Correct directory is [here](https://github.com/xp-echo)
