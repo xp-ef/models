@@ -1,2 +1,2 @@
-## It seems to incorecctly be linked to this site "https://github.com/xp-echo".
-## Correct directory is [here](https://github.com/xp-echo)
+## It seems to incorecctly be linked to this site.
+## Correct directory is [(https://github.com/xp-echo)](https://github.com/xp-echo)
